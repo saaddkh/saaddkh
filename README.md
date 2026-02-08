@@ -35,6 +35,6 @@ My work bridges the gap between theoretical research and practical application, 
 
 ---
 
-> "Mathematics is the language in which God has written the universe." — Galileo Galilei
+> "Mathematics is the language in which God has written the universe." - Galileo Galilei
 
 [LinkedIn](https://linkedin.com/in/saaddkhan1) • [Email](mailto:sdastgir@proton.me) 
